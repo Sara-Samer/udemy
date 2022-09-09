@@ -457,7 +457,7 @@
         {
           "id": "631b5a6c67af561660bed24f",
           "name": "Rena Wilkinson",
-          "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+          "image": "https://img-c.udemycdn.com/user/200_H/10260436_946b_6.jpg",
           "job": "Head of Data Science at Pierian Training",
           "rate": 4.6383,
           "reviews_num": 5901,
@@ -477,7 +477,7 @@
           "createAt": "2022-06-09T11:54:39-02:00",
           "rate": 3.0691,
           "review_text": "Ipsum duis nulla veniam anim tempor fugiat commodo tempor eu. Aliqua officia labore eu enim aliquip occaecat pariatur ut sunt qui exercitation. Ipsum fugiat nulla laboris tempor ipsum consequat quis nostrud labore laboris est. Adipisicing exercitation excepteur qui veniam Lorem ea ex.\r\n",
-          "helpful": null
+          "helpful": true
         },
         {
           "id": "631b5a6c27f7c9860c50da2a",
@@ -965,7 +965,7 @@
         {
           "id": "631b5a6ce66e38bd9359a9f6",
           "name": "Karin Lewis",
-          "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+          "image": "https://img-c.udemycdn.com/user/200_H/10260436_946b_6.jpg",
           "job": "Head of Data Science at Pierian Training",
           "rate": 3.7573,
           "reviews_num": 8895,
@@ -980,7 +980,7 @@
         {
           "id": "631b5a6c462340ab7a3e22ac",
           "name": "Sheena French",
-          "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+          "image": "https://img-c.udemycdn.com/user/200_H/10260436_946b_6.jpg",
           "job": "CEO of TheCodex.me ",
           "rate": 3.4105,
           "reviews_num": 3431,
@@ -1040,7 +1040,7 @@
           "createAt": "2022-04-22T12:53:02-02:00",
           "rate": 4.6844,
           "review_text": "Veniam fugiat elit aliquip occaecat anim qui laborum nulla tempor veniam duis dolor. Proident aute duis excepteur cupidatat dolore eu. Pariatur tempor labore ad do incididunt dolore. Excepteur minim nostrud dolor sunt id reprehenderit occaecat adipisicing aliqua nostrud aliqua dolor. Commodo aliquip sunt laborum sit magna excepteur mollit sint nisi occaecat officia ipsum mollit. Pariatur ad aliqua labore excepteur amet laboris velit excepteur sint aute ut.\r\n",
-          "helpful": null
+          "helpful": true
         },
         {
           "id": "631b5a6c7edda731ccacba68",
@@ -1558,7 +1558,7 @@
         {
           "id": "631b5a6c3df7cc1e197a1550",
           "name": "Parrish Mejia",
-          "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+          "image": "https://img-c.udemycdn.com/user/200_H/10260436_946b_6.jpg",
           "job": "CEO of TheCodex.me ",
           "rate": 3.0819,
           "reviews_num": 6758,
@@ -1573,7 +1573,7 @@
         {
           "id": "631b5a6c92025f1e6696cb30",
           "name": "Salas Copeland",
-          "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+          "image": "https://img-c.udemycdn.com/user/200_H/10260436_946b_6.jpg",
           "job": "CEO of TheCodex.me ",
           "rate": 3.4544,
           "reviews_num": 2753,
@@ -1593,7 +1593,7 @@
           "createAt": "2022-05-01T02:17:50-02:00",
           "rate": 3.4621,
           "review_text": "Magna mollit tempor tempor reprehenderit dolor veniam est eu veniam ipsum mollit dolore ullamco. Ut proident minim commodo officia Lorem ipsum elit exercitation ad aliqua. Minim qui mollit esse elit.\r\n",
-          "helpful": null
+          "helpful": true
         },
         {
           "id": "631b5a6cf159314b0d34317a",
@@ -1617,7 +1617,7 @@
           "createAt": "2022-07-03T06:41:27-02:00",
           "rate": 4.6777,
           "review_text": "Officia qui commodo laboris Lorem cillum sint tempor. Officia nostrud reprehenderit enim ad aute quis laborum cillum elit Lorem aliquip fugiat cillum sunt. Dolore eiusmod eiusmod irure est eiusmod nisi cillum dolor dolore pariatur minim deserunt consequat quis.\r\n",
-          "helpful": null
+          "helpful": true
         },
         {
           "id": "631b5a6cbbe2d17dc7cf3e04",
@@ -2129,7 +2129,7 @@
         {
           "id": "631b5a6c7d138f72f907e60c",
           "name": "Adriana Hanson",
-          "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+          "image": "https://img-c.udemycdn.com/user/200_H/10260436_946b_6.jpg",
           "job": "Head of Data Science at Pierian Training",
           "rate": 4.7926,
           "reviews_num": 9813,
@@ -2157,7 +2157,7 @@
           "createAt": "2022-03-04T09:39:09-02:00",
           "rate": 3.3642,
           "review_text": "Ad adipisicing pariatur incididunt qui cupidatat elit laborum deserunt sunt velit nisi adipisicing id officia. Cupidatat eiusmod laboris enim cillum fugiat ex deserunt esse magna culpa irure consectetur veniam. Officia mollit et labore laboris pariatur elit incididunt eiusmod. Nostrud irure tempor ex cupidatat laborum aliqua proident exercitation id eu.\r\n",
-          "helpful": null
+          "helpful": true
         },
         {
           "id": "631b5a6ccdb14d1d1353fa06",
@@ -2181,7 +2181,7 @@
           "createAt": "2022-09-05T08:36:54-02:00",
           "rate": 3.1171,
           "review_text": "Dolor deserunt incididunt est eiusmod eu laborum aliquip officia nulla laboris elit eu proident eiusmod. Nostrud cupidatat qui in pariatur consequat nostrud tempor laborum ipsum enim minim laborum cillum dolor. Consequat et esse incididunt laboris ullamco sint mollit do aliqua esse incididunt. Pariatur aute ullamco sunt dolor exercitation qui labore duis voluptate do minim. Deserunt veniam sunt reprehenderit ex cupidatat adipisicing dolor voluptate magna incididunt nisi anim est. Lorem commodo Lorem est mollit id cillum occaecat. Commodo qui sit anim culpa irure.\r\n",
-          "helpful": null
+          "helpful": true
         },
         {
           "id": "631b5a6c3eacf8a3a12ec5e0",
@@ -2197,7 +2197,7 @@
           "createAt": "2022-07-12T03:49:14-02:00",
           "rate": 3.1834,
           "review_text": "Aute nulla nisi sunt sit aute. Consectetur velit non nulla excepteur anim do esse ad voluptate Lorem ullamco tempor cillum. Proident tempor aliqua ex excepteur excepteur do aliqua. Fugiat amet sunt laborum proident adipisicing aliqua culpa velit esse tempor occaecat officia sint ullamco.\r\n",
-          "helpful": null
+          "helpful": true
         },
         {
           "id": "631b5a6c47b68e9be8cef2ca",
@@ -2213,7 +2213,7 @@
           "createAt": "2022-03-21T03:13:19-02:00",
           "rate": 4.5925,
           "review_text": "Deserunt adipisicing consequat ut dolor cillum commodo ut consequat commodo Lorem adipisicing consequat. Magna ex incididunt mollit ut eu adipisicing quis nostrud proident. Commodo elit exercitation proident veniam exercitation consequat reprehenderit voluptate ex laborum labore id. Commodo eu cillum laboris non. Esse anim ut sit velit dolore dolor enim velit reprehenderit consequat mollit eiusmod. Id commodo sint sit est ex esse adipisicing.\r\n",
-          "helpful": null
+          "helpful": true
         },
         {
           "id": "631b5a6cba90bf02cc43410b",
@@ -2221,7 +2221,7 @@
           "createAt": "2022-04-12T07:34:07-02:00",
           "rate": 4.7609,
           "review_text": "Ex minim id irure adipisicing. Eiusmod pariatur in dolore enim commodo eiusmod qui consequat ipsum elit ut esse dolor commodo. Id tempor officia enim aute veniam elit consectetur ex voluptate reprehenderit amet in velit sit. Commodo in excepteur do anim sunt et aute id et quis amet pariatur aliquip. Veniam cillum sit proident ipsum aliquip consequat eiusmod occaecat magna sit. Velit elit culpa elit elit labore adipisicing minim labore excepteur irure nisi elit.\r\n",
-          "helpful": null
+          "helpful": true
         }
       ]
     },
@@ -2749,7 +2749,7 @@
         {
           "id": "631b5a6c5ef6d579eeb840e3",
           "name": "Roberta Barlow",
-          "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+          "image": "https://img-c.udemycdn.com/user/200_H/10260436_946b_6.jpg",
           "job": "CEO of TheCodex.me ",
           "rate": 4.0601,
           "reviews_num": 9095,
@@ -2777,7 +2777,7 @@
           "createAt": "2022-04-26T10:18:51-02:00",
           "rate": 4.0886,
           "review_text": "In sunt pariatur magna proident excepteur laboris in. Velit exercitation eu aliquip adipisicing mollit aliquip dolore non exercitation eiusmod. Lorem mollit in quis minim adipisicing velit ut ea elit minim culpa ad. Magna tempor dolore Lorem esse amet excepteur.\r\n",
-          "helpful": null
+          "helpful": true
         },
         {
           "id": "631b5a6c1977dcb5c6b34fd8",
@@ -2785,7 +2785,7 @@
           "createAt": "2022-02-08T09:30:11-02:00",
           "rate": 3.4422,
           "review_text": "Pariatur deserunt amet nulla sint ad nulla aliquip reprehenderit labore nisi. Labore tempor quis cupidatat amet quis ea. Dolor voluptate pariatur pariatur labore do duis cillum. Amet aliquip est fugiat quis ad reprehenderit tempor Lorem non quis quis culpa. Ea aute eu tempor proident.\r\n",
-          "helpful": null
+          "helpful": true
         },
         {
           "id": "631b5a6ce6f559a07616d117",
@@ -2817,7 +2817,7 @@
           "createAt": "2022-06-23T10:58:45-02:00",
           "rate": 3.4376,
           "review_text": "Anim magna veniam laboris ipsum sunt consectetur esse irure duis eu minim fugiat. Tempor dolore esse aliquip voluptate incididunt. Officia veniam id ad tempor ea laboris dolore enim laboris irure elit minim sunt. Labore excepteur veniam adipisicing commodo officia fugiat enim. Et voluptate cupidatat veniam laboris adipisicing elit tempor. Mollit dolor tempor dolor sunt occaecat veniam eiusmod commodo culpa occaecat enim et sunt.\r\n",
-          "helpful": null
+          "helpful": true
         },
         {
           "id": "631b5a6c8d3bd2ea2577861f",
@@ -3374,7 +3374,7 @@
           "createAt": "2022-06-16T11:32:32-02:00",
           "rate": 3.533,
           "review_text": "Do culpa quis duis in aute. Elit id quis occaecat consequat nisi tempor aute. Eiusmod qui velit irure fugiat excepteur nisi aliquip adipisicing culpa deserunt est commodo. Laborum consectetur nulla velit irure incididunt mollit eu anim enim ullamco cillum. Do tempor eiusmod minim et sunt mollit in eiusmod ut excepteur ut incididunt cillum. Ut adipisicing proident aliquip laborum.\r\n",
-          "helpful": null
+          "helpful": true
         },
         {
           "id": "631b5a6c3bb0c5aede8f530b",
@@ -3382,7 +3382,7 @@
           "createAt": "2022-04-23T08:32:24-02:00",
           "rate": 3.2293,
           "review_text": "Adipisicing et tempor eiusmod qui. Ad ullamco id ullamco dolor tempor incididunt nulla. In sunt esse Lorem esse qui eiusmod ut aliquip id excepteur ex aliqua quis ex. Non sit id culpa quis est officia esse eu et. Velit culpa excepteur nostrud pariatur ullamco anim in officia deserunt non non ea veniam quis. Ex ut veniam qui laboris irure est. Incididunt labore cillum excepteur irure dolore dolor est sunt reprehenderit tempor est aliquip.\r\n",
-          "helpful": null
+          "helpful": true
         },
         {
           "id": "631b5a6cb25f4652158789dc",
@@ -3406,7 +3406,7 @@
           "createAt": "2022-03-04T02:42:13-02:00",
           "rate": 3.2341,
           "review_text": "Nostrud anim sit fugiat nisi tempor fugiat labore eu deserunt amet aliqua. Aute ullamco ullamco et sit elit sint exercitation esse velit. Duis deserunt amet duis occaecat sunt nostrud adipisicing excepteur nisi voluptate est dolore commodo aliqua. Officia eu aliquip fugiat velit tempor consequat.\r\n",
-          "helpful": null
+          "helpful": true
         },
         {
           "id": "631b5a6c83f46d56a5db00f3",
@@ -3422,7 +3422,7 @@
           "createAt": "2022-08-16T08:58:23-02:00",
           "rate": 4.9239,
           "review_text": "Qui aliquip ullamco mollit qui nulla ad ullamco mollit tempor sit exercitation pariatur id. Eiusmod pariatur eiusmod nisi consequat consequat voluptate aliquip nisi voluptate in anim eiusmod Lorem do. Deserunt reprehenderit non ut nisi Lorem aute labore laboris eu nulla esse sunt amet eiusmod. Elit ut ut aute commodo do enim ad officia veniam eiusmod dolor dolor. Consectetur eu et eiusmod laborum ullamco. Laboris enim do in anim quis irure aute.\r\n",
-          "helpful": null
+          "helpful": true
         },
         {
           "id": "631b5a6c01fe60e0ab26df88",
@@ -3909,7 +3909,7 @@
         {
           "id": "631b5a6c86d8bd2c9510e1d3",
           "name": "Ferguson Valentine",
-          "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+          "image": "https://img-c.udemycdn.com/user/200_H/10260436_946b_6.jpg",
           "job": "CEO of TheCodex.me ",
           "rate": 3.0705,
           "reviews_num": 2782,
@@ -3945,7 +3945,7 @@
           "createAt": "2022-02-11T09:12:30-02:00",
           "rate": 3.806,
           "review_text": "Et fugiat proident duis laborum do adipisicing. Fugiat minim consequat sit elit enim duis deserunt tempor nisi nostrud et officia do laboris. Est nulla sit anim fugiat ullamco sunt magna pariatur.\r\n",
-          "helpful": null
+          "helpful": true
         },
         {
           "id": "631b5a6c285848624b476d40",
@@ -3977,7 +3977,7 @@
           "createAt": "2022-03-12T12:39:53-02:00",
           "rate": 4.8663,
           "review_text": "Et nostrud commodo elit ea ad do duis. Mollit laborum irure deserunt quis non adipisicing eu proident sunt occaecat ipsum ut amet. Commodo sit cupidatat Lorem ea laborum consectetur aliqua reprehenderit exercitation velit nisi ut tempor. Adipisicing irure ipsum consectetur duis. Fugiat esse excepteur velit ad esse culpa. Veniam ullamco reprehenderit dolor reprehenderit. Nulla labore et officia sunt cillum veniam id nisi.\r\n",
-          "helpful": null
+          "helpful": true
         },
         {
           "id": "631b5a6cbd88f11dad850cc7",
@@ -4535,7 +4535,7 @@
           "createAt": "2022-06-14T06:35:45-02:00",
           "rate": 4.0816,
           "review_text": "Consequat laboris cupidatat ut ex nisi. Reprehenderit do fugiat enim voluptate magna. Deserunt veniam laboris dolore in culpa dolore Lorem id aute officia. Sunt sit et commodo consequat elit anim Lorem reprehenderit sit culpa proident minim. Id quis aliqua esse in officia et fugiat commodo elit.\r\n",
-          "helpful": null
+          "helpful": true
         },
         {
           "id": "631b5a6c3d9748c82557d9d7",
@@ -4543,7 +4543,7 @@
           "createAt": "2022-05-08T11:10:54-02:00",
           "rate": 4.6316,
           "review_text": "Occaecat nostrud do occaecat sint cillum eu. Nulla sit irure pariatur duis officia adipisicing laboris. Occaecat sint Lorem laboris eu commodo ut officia quis.\r\n",
-          "helpful": null
+          "helpful": true
         },
         {
           "id": "631b5a6c2ed516f800372936",
@@ -4551,7 +4551,7 @@
           "createAt": "2022-04-12T07:44:25-02:00",
           "rate": 3.4218,
           "review_text": "Culpa laborum incididunt ipsum consequat duis sunt eu cillum quis adipisicing do incididunt excepteur. Deserunt eu id esse nulla non enim laboris ex labore dolore dolor. Laborum pariatur quis ad cupidatat adipisicing nisi cupidatat. Dolor voluptate minim sint aliqua consequat dolore pariatur cupidatat minim magna adipisicing eiusmod.\r\n",
-          "helpful": null
+          "helpful": true
         },
         {
           "id": "631b5a6c8fc8145a9e1b7baf",
@@ -4591,7 +4591,7 @@
           "createAt": "2022-07-03T03:56:44-02:00",
           "rate": 3.417,
           "review_text": "Tempor exercitation dolore cupidatat minim nostrud pariatur occaecat veniam sit anim ex ad sit. Minim aliquip elit pariatur excepteur. Sunt est nulla qui tempor quis dolor ipsum sunt et. Laboris consectetur mollit qui ullamco dolore mollit occaecat aliqua reprehenderit eiusmod sunt. Quis tempor ipsum fugiat enim occaecat adipisicing occaecat proident consectetur. Et exercitation laborum duis voluptate id. Lorem aliqua laborum incididunt tempor mollit consequat fugiat nostrud.\r\n",
-          "helpful": null
+          "helpful": true
         },
         {
           "id": "631b5a6cbe20659e05d16c6b",
@@ -5051,7 +5051,7 @@
         {
           "id": "631b5a6c30d5fd2b36fb8c52",
           "name": "Huffman Schultz",
-          "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+          "image": "https://img-c.udemycdn.com/user/200_H/10260436_946b_6.jpg",
           "job": "CEO of TheCodex.me ",
           "rate": 4.0305,
           "reviews_num": 7763,
@@ -5071,7 +5071,7 @@
           "createAt": "2022-07-26T11:08:53-02:00",
           "rate": 4.7606,
           "review_text": "Excepteur aliquip aute adipisicing sit exercitation ad ad mollit sit adipisicing nostrud. Culpa nisi officia aute eu et enim nulla in consectetur consectetur excepteur officia. Do esse sint id pariatur laboris ipsum. Fugiat proident incididunt enim ad amet fugiat ut occaecat incididunt.\r\n",
-          "helpful": null
+          "helpful": true
         },
         {
           "id": "631b5a6c33bb2171700c8e40",
@@ -5087,7 +5087,7 @@
           "createAt": "2022-02-07T12:23:42-02:00",
           "rate": 3.8904,
           "review_text": "Aliqua officia proident consectetur ea ullamco. Magna consequat mollit sint officia sit ad et ad eiusmod commodo elit nisi ea occaecat. Officia dolore voluptate dolore exercitation voluptate deserunt irure.\r\n",
-          "helpful": null
+          "helpful": true
         },
         {
           "id": "631b5a6ca74cef23bfdd98c9",
@@ -5111,7 +5111,7 @@
           "createAt": "2022-07-16T08:07:57-02:00",
           "rate": 4.1292,
           "review_text": "Magna occaecat amet culpa ea consequat consectetur officia non fugiat voluptate aliqua nostrud excepteur eu. Nostrud labore dolore nostrud amet consectetur occaecat adipisicing esse consectetur dolore. Consectetur est consequat Lorem aute qui pariatur deserunt adipisicing tempor. Minim laboris cupidatat Lorem do voluptate in dolor tempor cillum aliqua nostrud cillum. Ipsum do esse aliqua ad adipisicing aliqua ipsum reprehenderit ad exercitation id incididunt anim nostrud. Ex consequat ea fugiat duis sunt reprehenderit irure incididunt anim occaecat fugiat veniam fugiat.\r\n",
-          "helpful": null
+          "helpful": true
         },
         {
           "id": "631b5a6c3098f92390e53188",
@@ -5144,587 +5144,6 @@
           "rate": 3.0505,
           "review_text": "Cupidatat et ut exercitation cupidatat reprehenderit eu sint eiusmod magna ut sit veniam est. Velit quis non aute esse duis esse ex nulla voluptate non. Ad et mollit enim et enim qui proident reprehenderit deserunt dolor.\r\n",
           "helpful": false
-        }
-      ]
-    },
-    {
-      "id": "631b5a6c14601281d127e494",
-      "title": "100 Days of Code: The Complete Python Pro Bootcamp for 2022",
-      "image": "https://img-c.udemycdn.com/course/240x135/1362070_b9a1_2.jpg",
-      "category": "Python",
-      "auther": "qui reprehenderit voluptate voluptate dolore anim tempor magna culpa nisi commodo sit adipisicing culpa duis",
-      "price": 106.5624,
-      "starRate": 3.339,
-      "rate_num": 3751,
-      "students": 72122,
-      "update_date": "2022-08-04T11:56:06-02:00",
-      "content_lang": "English",
-      "caption_lang": "English",
-      "what_learn": [
-        "aliquip laboris labore magna adipisicing",
-        "mollit excepteur sit est ea",
-        "consequat ad deserunt cillum velit"
-      ],
-      "includes": {
-        "total_time_estimate": "28 hours on-demand video",
-        "articles_num": "1 articles",
-        "featues": "Access on mobile and TV"
-      },
-      "content": [
-        {
-          "lecture": {
-            "id": "631b5a6c6a9d3047be80573d",
-            "title": "Our First Game (Bounce!)",
-            "total_estimate_time": 28,
-            "lessons": [
-              {
-                "id": "631b5a6ce6cd0c4b72a4a9d5",
-                "title": "Merging Data Frames",
-                "estimate_time": 8,
-                "is_preview": false
-              },
-              {
-                "id": "631b5a6c4424f390dfc51653",
-                "title": "Text and Arcs",
-                "estimate_time": 10,
-                "is_preview": true
-              },
-              {
-                "id": "631b5a6c8a904108e2c445ec",
-                "title": "Weather Parsing",
-                "estimate_time": 8,
-                "is_preview": true
-              },
-              {
-                "id": "631b5a6c70fe7b12a4bb68ca",
-                "title": "Series Data Structure",
-                "estimate_time": 8,
-                "is_preview": true
-              },
-              {
-                "id": "631b5a6c0254b385bb46ee06",
-                "title": "Exercise Files",
-                "estimate_time": 6,
-                "is_preview": false
-              },
-              {
-                "id": "631b5a6cfe279ad7f6253a6c",
-                "title": "Check Buttons",
-                "estimate_time": 8,
-                "is_preview": true
-              },
-              {
-                "id": "631b5a6c22b238fe4e5f1486",
-                "title": "Series Data Structure",
-                "estimate_time": 9,
-                "is_preview": true
-              }
-            ]
-          }
-        },
-        {
-          "lecture": {
-            "id": "631b5a6c0ed63cf618276149",
-            "title": "Beautiful Soup HTML Parsing",
-            "total_estimate_time": 30,
-            "lessons": [
-              {
-                "id": "631b5a6c9c0eeaea8d0ce63e",
-                "title": "Check Buttons",
-                "estimate_time": 6,
-                "is_preview": false
-              },
-              {
-                "id": "631b5a6cb9fc62964ef4e67e",
-                "title": "Layouts",
-                "estimate_time": 6,
-                "is_preview": true
-              },
-              {
-                "id": "631b5a6c540dc8799e202957",
-                "title": "Exercise Files",
-                "estimate_time": 7,
-                "is_preview": false
-              },
-              {
-                "id": "631b5a6c49d9af21c82ac284",
-                "title": "MovieLens Data",
-                "estimate_time": 10,
-                "is_preview": true
-              },
-              {
-                "id": "631b5a6c57110988082c2898",
-                "title": "Reading a CSV",
-                "estimate_time": 5,
-                "is_preview": true
-              },
-              {
-                "id": "631b5a6c76022d7af5cad456",
-                "title": "Check Buttons",
-                "estimate_time": 6,
-                "is_preview": false
-              }
-            ]
-          }
-        },
-        {
-          "lecture": {
-            "id": "631b5a6c362934d4c40b9856",
-            "title": "Functions!",
-            "total_estimate_time": 48,
-            "lessons": [
-              {
-                "id": "631b5a6cb5c03c0907e539bf",
-                "title": "Modifying our Bar Graph",
-                "estimate_time": 7,
-                "is_preview": false
-              },
-              {
-                "id": "631b5a6cd38dc3e70bb9d8cd",
-                "title": "Overriding Methods",
-                "estimate_time": 5,
-                "is_preview": true
-              },
-              {
-                "id": "631b5a6c88f60ce3fecef1b4",
-                "title": "Final Touches",
-                "estimate_time": 5,
-                "is_preview": false
-              }
-            ]
-          }
-        },
-        {
-          "lecture": {
-            "id": "631b5a6c8a09ee7ef4980959",
-            "title": "Classes! (Object Orientated Programming)",
-            "total_estimate_time": 27,
-            "lessons": [
-              {
-                "id": "631b5a6c01985c9ecb368fe9",
-                "title": "Up and Beyond!",
-                "estimate_time": 9,
-                "is_preview": false
-              },
-              {
-                "id": "631b5a6cc5c17eca78ac3504",
-                "title": "Functions in Classes",
-                "estimate_time": 10,
-                "is_preview": true
-              },
-              {
-                "id": "631b5a6cc7be510eb3e9fb99",
-                "title": "Hello World",
-                "estimate_time": 10,
-                "is_preview": false
-              },
-              {
-                "id": "631b5a6cfc573c0b3cf72a90",
-                "title": "Calculator Part 3",
-                "estimate_time": 5,
-                "is_preview": false
-              },
-              {
-                "id": "631b5a6c5c858a7e0ba1258f",
-                "title": "Hello World",
-                "estimate_time": 8,
-                "is_preview": true
-              },
-              {
-                "id": "631b5a6cfa26f28abb0f464a",
-                "title": "While Loops",
-                "estimate_time": 6,
-                "is_preview": false
-              },
-              {
-                "id": "631b5a6cb896c338e3dbf04e",
-                "title": "Multiple 3D Scatter Plots",
-                "estimate_time": 10,
-                "is_preview": true
-              },
-              {
-                "id": "631b5a6c97f41e95b004a20c",
-                "title": "Indexing and More",
-                "estimate_time": 9,
-                "is_preview": false
-              }
-            ]
-          }
-        },
-        {
-          "lecture": {
-            "id": "631b5a6c04b2a38fbc94d3d9",
-            "title": "Conditions and Loops",
-            "total_estimate_time": 26,
-            "lessons": [
-              {
-                "id": "631b5a6ceaf14bd2f746e323",
-                "title": "Pass, Break and Continue",
-                "estimate_time": 8,
-                "is_preview": false
-              },
-              {
-                "id": "631b5a6cd86bc837f1bfb7db",
-                "title": "GroupBy Function",
-                "estimate_time": 7,
-                "is_preview": true
-              }
-            ]
-          }
-        },
-        {
-          "lecture": {
-            "id": "631b5a6ca0adc3aee2532138",
-            "title": "Data Analysis with Pandas!",
-            "total_estimate_time": 22,
-            "lessons": [
-              {
-                "id": "631b5a6cf5e66c89f5455261",
-                "title": "Functions in Soup",
-                "estimate_time": 6,
-                "is_preview": false
-              },
-              {
-                "id": "631b5a6ce2941d27f04ff10b",
-                "title": "Functions in Turtle",
-                "estimate_time": 5,
-                "is_preview": false
-              },
-              {
-                "id": "631b5a6c84336475db71b695",
-                "title": "Global and Local Vars",
-                "estimate_time": 5,
-                "is_preview": false
-              },
-              {
-                "id": "631b5a6c7a2c4b6f793b6043",
-                "title": "Buttons",
-                "estimate_time": 7,
-                "is_preview": false
-              },
-              {
-                "id": "631b5a6c51edd4b9e225eef9",
-                "title": "Guessing Game",
-                "estimate_time": 10,
-                "is_preview": false
-              },
-              {
-                "id": "631b5a6cae093a2d983d6f8a",
-                "title": "List Functions",
-                "estimate_time": 10,
-                "is_preview": false
-              }
-            ]
-          }
-        },
-        {
-          "lecture": {
-            "id": "631b5a6c43b10db06989fa37",
-            "title": "Up and Running With Python",
-            "total_estimate_time": 40,
-            "lessons": [
-              {
-                "id": "631b5a6c9b332e64484aae14",
-                "title": "MovieLens Data",
-                "estimate_time": 10,
-                "is_preview": true
-              },
-              {
-                "id": "631b5a6c92cd8dec8242cb55",
-                "title": "List Functions",
-                "estimate_time": 5,
-                "is_preview": true
-              },
-              {
-                "id": "631b5a6cc4e49d0eb8bfaa75",
-                "title": "Graph Labels",
-                "estimate_time": 9,
-                "is_preview": false
-              },
-              {
-                "id": "631b5a6cc73f75e86bd5f4e8",
-                "title": "Animations",
-                "estimate_time": 6,
-                "is_preview": false
-              },
-              {
-                "id": "631b5a6c18e6cdc2f3226c66",
-                "title": "Creating a File (Windows)",
-                "estimate_time": 5,
-                "is_preview": false
-              },
-              {
-                "id": "631b5a6c4641a9c598e183fb",
-                "title": "Creating a File (Windows)",
-                "estimate_time": 10,
-                "is_preview": false
-              }
-            ]
-          }
-        },
-        {
-          "lecture": {
-            "id": "631b5a6cf7709c7b63b6cf39",
-            "title": "Up and Running With Python",
-            "total_estimate_time": 44,
-            "lessons": [
-              {
-                "id": "631b5a6ce303a6626d3707dd",
-                "title": "Lists/Arrays",
-                "estimate_time": 5,
-                "is_preview": true
-              },
-              {
-                "id": "631b5a6c5513958c1c69c099",
-                "title": "Let's Finish This",
-                "estimate_time": 10,
-                "is_preview": true
-              },
-              {
-                "id": "631b5a6c9a792a74e6572a32",
-                "title": "GUI Login",
-                "estimate_time": 10,
-                "is_preview": true
-              },
-              {
-                "id": "631b5a6c9e84aa9552b9e7cc",
-                "title": "Intro to MatPlotLib",
-                "estimate_time": 5,
-                "is_preview": true
-              },
-              {
-                "id": "631b5a6c7a5c839ebd3a68cd",
-                "title": "Weather (.py)",
-                "estimate_time": 10,
-                "is_preview": false
-              },
-              {
-                "id": "631b5a6c6708796a33502570",
-                "title": "Drop Down Menus",
-                "estimate_time": 6,
-                "is_preview": true
-              }
-            ]
-          }
-        },
-        {
-          "lecture": {
-            "id": "631b5a6c6f3c5590f5756446",
-            "title": "Classes! (Object Orientated Programming)",
-            "total_estimate_time": 36,
-            "lessons": [
-              {
-                "id": "631b5a6c309e45eda9670c06",
-                "title": "Slicing Data Frames",
-                "estimate_time": 5,
-                "is_preview": false
-              },
-              {
-                "id": "631b5a6cb46aaefb34ba7442",
-                "title": "Pong! (.py)",
-                "estimate_time": 5,
-                "is_preview": true
-              }
-            ]
-          }
-        },
-        {
-          "lecture": {
-            "id": "631b5a6c6363fd6b64881817",
-            "title": "Classes! (Object Orientated Programming)",
-            "total_estimate_time": 25,
-            "lessons": [
-              {
-                "id": "631b5a6c68766203ea63972e",
-                "title": "Elif Statements",
-                "estimate_time": 9,
-                "is_preview": true
-              },
-              {
-                "id": "631b5a6ca07810fdbcf09958",
-                "title": "Prettify with Soup",
-                "estimate_time": 7,
-                "is_preview": false
-              },
-              {
-                "id": "631b5a6cfe37b6c08a68ddea",
-                "title": "Series Continuation",
-                "estimate_time": 8,
-                "is_preview": true
-              },
-              {
-                "id": "631b5a6c34db79d4015b9add",
-                "title": "Merging Data Frames",
-                "estimate_time": 8,
-                "is_preview": false
-              },
-              {
-                "id": "631b5a6c9c9acb9562223d6a",
-                "title": "More Binding!",
-                "estimate_time": 8,
-                "is_preview": false
-              },
-              {
-                "id": "631b5a6c3ae7b0d1070584ac",
-                "title": "Class Attributes",
-                "estimate_time": 7,
-                "is_preview": false
-              },
-              {
-                "id": "631b5a6c654d07ef63df5525",
-                "title": "While Loops",
-                "estimate_time": 5,
-                "is_preview": true
-              },
-              {
-                "id": "631b5a6c260d04cb2158a167",
-                "title": "Exercise Files",
-                "estimate_time": 10,
-                "is_preview": false
-              }
-            ]
-          }
-        }
-      ],
-      "requirements": {
-        "title": "Requirments",
-        "body": [
-          {
-            "id": "631b5a6c8b36b705d1b874cd",
-            "item": "proident id anim labore duis"
-          },
-          {
-            "id": "631b5a6c4be5755bed7979e7",
-            "item": "magna do cillum est laboris"
-          },
-          {
-            "id": "631b5a6ce72c1c39527e5d00",
-            "item": "culpa duis irure anim minim"
-          },
-          {
-            "id": "631b5a6cf2957a8cd77d4836",
-            "item": "ex anim laboris qui qui"
-          }
-        ]
-      },
-      "description": [
-        "Aute excepteur tempor veniam magna anim esse nulla id aliquip in labore id eiusmod. Reprehenderit nostrud sit commodo tempor exercitation aliqua occaecat excepteur aute tempor tempor. Ea irure incididunt amet culpa est eiusmod consequat. Fugiat proident duis irure irure labore deserunt cupidatat anim consequat. Amet elit Lorem veniam nisi laboris aliquip ipsum nostrud eu voluptate in tempor sit. Exercitation nulla ipsum non aliqua exercitation enim. Proident ex ex est eiusmod adipisicing elit mollit excepteur ad.\r\n",
-        "Quis excepteur pariatur minim ad deserunt nulla pariatur tempor elit fugiat fugiat. Adipisicing tempor ex nostrud ut excepteur exercitation esse. Consequat labore amet laborum aliqua aliqua nisi eiusmod tempor. Labore et officia do veniam dolor eiusmod sunt Lorem aute adipisicing ad laborum esse. Veniam nulla non exercitation et do eu fugiat non minim in ad deserunt veniam ut.\r\n",
-        "Proident officia dolor consequat culpa sit nostrud aliqua enim id. Qui sunt deserunt anim sint laborum irure commodo. Minim sint duis consequat ex eiusmod elit eiusmod. Eu id proident et ea labore anim reprehenderit anim laboris. Lorem Lorem mollit est minim labore pariatur eu id. Consequat nostrud adipisicing culpa voluptate irure ut amet laboris commodo. Incididunt non proident eu sint et.\r\n",
-        "Voluptate incididunt ad laborum occaecat ullamco consectetur Lorem velit tempor velit mollit. Ex mollit nisi est duis quis. Sint aliqua est amet non nulla non.\r\n"
-      ],
-      "instructors": [
-        {
-          "id": "631b5a6ca45f507cbdf3afa0",
-          "name": "Alisa Cain",
-          "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-          "job": "CEO of TheCodex.me ",
-          "rate": 3.2309,
-          "reviews_num": 2775,
-          "students_num": 45817,
-          "courses_num": 9,
-          "bio": [
-            "Ex mollit laboris voluptate ut nisi veniam. Eiusmod officia in aliqua cillum eiusmod cillum eiusmod proident qui minim amet proident dolore sunt. Id nulla aliquip tempor deserunt eiusmod ut et reprehenderit sint occaecat minim qui.\r\n",
-            "Officia officia voluptate enim sunt fugiat minim voluptate ea ex. Non ea minim enim voluptate ut ad proident. Sunt amet sunt voluptate sint ad labore.\r\n",
-            "Veniam tempor qui velit in. Laboris dolore cillum ea in duis magna sint adipisicing dolor excepteur. Aliqua occaecat ea proident sit proident. Proident sit consectetur mollit voluptate sunt officia adipisicing ut ipsum sint. Dolor Lorem magna aliqua ad est voluptate est veniam duis adipisicing tempor voluptate proident. Sint ullamco consectetur ut nulla sint ex veniam. Sunt sint exercitation quis in.\r\n"
-          ]
-        },
-        {
-          "id": "631b5a6c99f0beec601732db",
-          "name": "Kirk Barrera",
-          "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-          "job": "Developer and Lead Instructor",
-          "rate": 4.8198,
-          "reviews_num": 9794,
-          "students_num": 24137,
-          "courses_num": 3,
-          "bio": [
-            "Ea est tempor cillum et enim minim excepteur dolor voluptate. Ea do esse elit dolore sint aliqua deserunt. Cupidatat ea officia in culpa consequat ipsum labore. Voluptate cupidatat labore et exercitation mollit Lorem incididunt aliquip tempor duis.\r\n",
-            "Sit labore ex aliquip fugiat est velit nostrud veniam est ad sunt. Voluptate laborum excepteur ea commodo labore commodo aute amet laboris exercitation. Ad sint ea esse consectetur do eu voluptate aute. Et nulla ullamco nostrud in laborum velit elit velit veniam anim velit ex. Nisi do nisi velit laborum nulla nisi nostrud exercitation excepteur amet esse do laborum. Sint officia minim Lorem reprehenderit laborum reprehenderit occaecat deserunt exercitation pariatur esse consequat consectetur eiusmod.\r\n",
-            "Sit nostrud labore aliquip culpa enim et anim laborum labore pariatur. Tempor ullamco nisi amet laboris nulla anim. Aute ullamco ad do fugiat duis velit labore eu eu esse non reprehenderit eu. Amet fugiat magna adipisicing laboris quis magna commodo dolor nostrud. Officia amet laborum eiusmod in consectetur id dolore incididunt cillum deserunt adipisicing laboris reprehenderit. Nulla culpa qui nisi tempor reprehenderit nostrud velit. Dolor fugiat culpa mollit amet nulla sunt enim fugiat labore sint reprehenderit dolor aliquip enim.\r\n"
-          ]
-        }
-      ],
-      "reviews": [
-        {
-          "id": "631b5a6cf845390250c900fc",
-          "reviewer": "Hendricks",
-          "createAt": "2022-04-15T01:35:07-02:00",
-          "rate": 4.1889,
-          "review_text": "Sunt non mollit laborum anim aute culpa irure occaecat velit sunt sunt qui eiusmod pariatur. Reprehenderit veniam ex veniam pariatur fugiat duis sit ad ea aute esse. Eiusmod do sunt sunt in eiusmod esse mollit labore dolor laboris nisi. Mollit in do ex non exercitation. Culpa nisi cupidatat elit labore veniam non do sit cupidatat ex laborum sunt laborum enim. Anim minim exercitation Lorem ipsum occaecat amet est consectetur. Quis et veniam mollit ex tempor.\r\n",
-          "helpful": null
-        },
-        {
-          "id": "631b5a6c5b12a1ba9e0f110a",
-          "reviewer": "Odonnell",
-          "createAt": "2022-09-01T09:37:04-02:00",
-          "rate": 3.1895,
-          "review_text": "Adipisicing ipsum proident sit amet. Labore laboris ut anim ea laborum consequat reprehenderit eiusmod. In deserunt consectetur sit nisi amet nostrud aliquip proident. Incididunt aliquip sint aute laboris quis culpa commodo. In sint et consequat excepteur non dolore. Laboris aliquip officia nisi in sint excepteur nulla.\r\n",
-          "helpful": true
-        },
-        {
-          "id": "631b5a6c797951da8451a271",
-          "reviewer": "Donaldson",
-          "createAt": "2022-04-19T05:18:08-02:00",
-          "rate": 4.5696,
-          "review_text": "Dolor ex incididunt voluptate eiusmod. Cillum elit elit ad nulla ut pariatur do reprehenderit anim proident elit in mollit qui. Magna id veniam qui ex aliqua velit. Enim non eu sunt in tempor magna labore incididunt voluptate ea adipisicing. Ullamco eu ad Lorem deserunt sunt laborum aliqua aliqua esse incididunt. Ex tempor dolore nisi quis sunt laboris magna mollit elit ex velit.\r\n",
-          "helpful": null
-        },
-        {
-          "id": "631b5a6c8a016c8309e71db4",
-          "reviewer": "Rocha",
-          "createAt": "2022-02-06T04:50:52-02:00",
-          "rate": 4.0096,
-          "review_text": "Amet do anim tempor elit in est duis aliqua anim qui Lorem enim. Velit cupidatat incididunt dolore esse sit commodo est magna duis veniam est veniam fugiat. Duis nostrud eu culpa in minim adipisicing mollit exercitation. Consectetur quis aute sunt pariatur irure aliquip minim est et eiusmod. Aliqua id fugiat eu laborum est mollit magna ea laborum do tempor labore excepteur. Labore dolore veniam dolore amet culpa. Qui Lorem consequat velit quis excepteur tempor.\r\n",
-          "helpful": true
-        },
-        {
-          "id": "631b5a6c8cf0d1a60fffea44",
-          "reviewer": "Rich",
-          "createAt": "2022-03-13T07:28:15-02:00",
-          "rate": 4.9554,
-          "review_text": "Aliquip commodo in cillum ut cupidatat amet fugiat consequat qui consequat. Commodo consequat ullamco aliqua do labore enim ut reprehenderit nisi id ut. Quis reprehenderit minim nostrud ipsum irure ex enim eiusmod esse. Minim duis incididunt veniam occaecat aute velit sint cillum culpa proident dolor velit in ipsum. Ipsum dolor mollit nostrud nisi qui cillum ex fugiat magna fugiat eu excepteur. Cupidatat deserunt sit excepteur mollit qui do. Cupidatat aliqua qui magna enim ipsum magna occaecat laborum ipsum reprehenderit labore.\r\n",
-          "helpful": false
-        },
-        {
-          "id": "631b5a6cc3f86605139b2685",
-          "reviewer": "Dyer",
-          "createAt": "2022-02-20T07:21:12-02:00",
-          "rate": 3.2082,
-          "review_text": "Mollit veniam ipsum laborum velit. Dolor exercitation ut culpa amet laborum proident non. Cupidatat enim dolore ut do.\r\n",
-          "helpful": true
-        },
-        {
-          "id": "631b5a6c8682fa821798f3f4",
-          "reviewer": "Bird",
-          "createAt": "2022-09-05T06:13:07-02:00",
-          "rate": 3.7771,
-          "review_text": "Occaecat qui anim voluptate nostrud cillum laboris consectetur proident fugiat officia aute aliqua incididunt. Exercitation tempor laboris tempor sunt pariatur fugiat fugiat officia non et eiusmod. Dolore velit dolor quis aliquip tempor tempor do incididunt commodo laboris minim fugiat.\r\n",
-          "helpful": null
-        },
-        {
-          "id": "631b5a6c5cedafccdb9c7716",
-          "reviewer": "Horne",
-          "createAt": "2022-05-20T04:22:42-02:00",
-          "rate": 4.0411,
-          "review_text": "Esse proident aliquip ad qui amet aliqua et quis commodo pariatur excepteur laboris cillum officia. Mollit deserunt elit nisi laborum cillum duis irure nisi. Proident nulla quis commodo do labore laborum reprehenderit ipsum non dolore commodo.\r\n",
-          "helpful": null
-        },
-        {
-          "id": "631b5a6c39f82f4e38d9a5e2",
-          "reviewer": "Baxter",
-          "createAt": "2022-03-09T05:31:23-02:00",
-          "rate": 4.4297,
-          "review_text": "Laborum mollit voluptate Lorem officia do. Ex esse nisi deserunt dolor tempor commodo esse esse id nisi. Dolor mollit nulla reprehenderit excepteur et amet ut in consequat ex magna veniam id. Do do minim sint commodo esse ad sit esse mollit elit. Ad eu velit nostrud laborum aliquip qui do reprehenderit pariatur est. Aute excepteur ut voluptate enim reprehenderit dolore. Nulla fugiat deserunt culpa sunt magna quis voluptate eu do officia consequat.\r\n",
-          "helpful": false
-        },
-        {
-          "id": "631b5a6c521768a49f69bf98",
-          "reviewer": "Reid",
-          "createAt": "2022-06-04T12:25:25-02:00",
-          "rate": 3.6501,
-          "review_text": "Ea sit nostrud sunt proident veniam cupidatat officia. Deserunt et non aliquip fugiat nostrud. Qui cillum exercitation est Lorem eiusmod esse commodo anim officia elit anim aliqua veniam reprehenderit. Voluptate dolor cillum consequat magna. Ea incididunt irure cillum reprehenderit qui elit amet ipsum excepteur do. Sunt aliqua adipisicing irure do mollit.\r\n",
-          "helpful": true
         }
       ]
     }
